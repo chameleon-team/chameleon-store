@@ -5,7 +5,7 @@
 
 ## 接口文档
 
-chameleon-store 对外提供跨端的数据管理接口，api查看及扩展等请见文档，[cml数据管理](https://cmljs.org/doc/logic/store.html#chameleonstorecreatestoreoptions-object-object)
+chameleon-store 对外提供跨端的数据管理接口，api查看及扩展等请见文档，[cml.createStore](https://cmljs.org/doc/logic/store.html#chameleonstorecreatestoreoptions-object-object)
 
 
 例如:
