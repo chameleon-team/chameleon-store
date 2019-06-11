@@ -62,3 +62,14 @@
 
     export default new Method();
 </script>
+<script cml-type="qq">
+    import createStore from '../../platform/qq'
+
+    class Method implements createStoreInterface {
+      createStore(options) {
+        return createStore(options)
+      }
+    }
+
+    export default new Method();
+</script>
