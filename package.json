@@ -1,6 +1,6 @@
 {
   "name": "chameleon-store",
-  "version": "0.1.0-alpha.qq",
+  "version": "0.1.0",
   "description": "chameleon的数据管理",
   "main": "index.js",
   "scripts": {
