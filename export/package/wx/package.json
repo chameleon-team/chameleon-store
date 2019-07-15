@@ -1,0 +1,17 @@
+{
+  "name": "chameleon-store-wx",
+  "version": "0.0.1",
+  "description": "chameleon框架wx端数据管理器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chameleon",
+    "store"
+  ],
+  "files": ["index.js"],
+  "author": "Chameleon-Team",
+  "license": "Apache",
+  "email": "ChameleonCore@didiglobal.com"
+}
