@@ -1,4 +1,4 @@
-# chameleon-store
+# chameleon-store [![version](https://img.shields.io/npm/v/chameleon-tool.svg?style=flat)](https://www.npmjs.com/package/chameleon-store)
 本仓库为 `cml` 框架的数据管理相关代码，提供集中管理数据的能力
 
 详细见[cml数据管理](https://cmljs.org/doc/logic/store.html)
